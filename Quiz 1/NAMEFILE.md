@@ -15,7 +15,8 @@ Emma Guarni
 Madison Van   
 Jade Carthans   
 Taylor Chan   
-Elisha Longfellow   
+Nathan Chan  
+Elisha Longfellow  
 Abisay Salgado   
 Logan Patterson  
 Annie Wang   
