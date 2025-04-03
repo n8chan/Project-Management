@@ -12,7 +12,7 @@ You will working on [the Quiz #2 project board](https://github.com/orgs/OREL-gro
 2) **assign yourself** to each issue and **label each issue** as appropriate. Create new labels as appropriate (see lecture notes on how to do this).  
 
 
-3) from the issues tab in the Github GUI, create a standalone issue as shown in class. Give a title and description: for this issue, describe any potential rescoping of your Kanban board issues that may need to be done in the future.
+3) from the [issues tab in the Github GUI](https://github.com/OREL-group/Project-Management/issues), create a standalone issue as shown in class. Give a title and description: for this issue, describe any potential rescoping of your Kanban board issues that may need to be done in the future.
 
 ![](https://user-images.githubusercontent.com/19001437/225823530-eb1f3a52-1346-43ae-b5da-13c9d1fadca3.png)
 
