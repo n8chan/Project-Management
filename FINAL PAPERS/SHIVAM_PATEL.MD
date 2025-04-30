@@ -11,13 +11,13 @@ College students living together often struggle to coordinate grocery shopping, 
 ---
 
 ### Purpose
-The purpose of CartSync is to provide an intuitive and satisfying solution for collaborative expense management. Students can easily create a group with others and be able to log expenses within their respective group. CartSync allows students to view their fair share of expenses quickly with pay these expenses with the tap of a button. CartSync also bridges the gap between budget and expense management. Students can view real time changes to their budget as expenses are posted.  Real-time notifications are enabled to notify students when they are paid or when an expense is posted by someone. By automating mundane tasks such as pantry inventory management, grocery shopping list creation, and expense management, CartSync helps students focus their time and energy on tasks that are more important. CartSync takes the hassle out of collaborative expense management while helping students stay on top of their budget, preventing unnecessary frustration between roommates. Some core features include:
-
+The purpose of CartSync is to provide an intuitive and satisfying solution for collaborative expense management. Students can easily create a group with others and be able to log expenses within their respective groups. CartSync allows students to view their fair share of expenses and quickly pay these expenses with the tap of a button. CartSync also bridges the gap between budget and expense management. Students can view real-time changes to their budget as expenses are posted. Real-time notifications are enabled to notify students when they are paid or when an expense is posted by someone. By automating mundane tasks such as pantry inventory management, grocery shopping list creation, and expense management, CartSync helps students focus their time and energy on more important tasks. CartSync takes the hassle out of collaborative expense management while helping students stay on top of their budget, preventing unnecessary frustration between roommates. Some core features include:
 - Expense Logging: Add expenses either through photos or the add expense button
 - Pantry Inventory Management: Students can take photos of their pantry or log the items manually to save time while grocery shopping.
 - AI Recipe Generator: Based on the items in the pantry, AI can create a list of potential recipes that students can create, which takes the grunt work out of deciding what to cook.
-- Shopping List: Students can view an entire group's shopping list. It is easy to see who has paid and who hasn’t. Students can also pay any pending expenses here as well. 
-- Grocery List: Students can view a history of all of their past expenses, who has paid them, and any remaining expenses all in one place. 
+- Shopping List: Students can view an entire group's shopping list. It is easy to see who has paid and who hasn’t. Students can also pay any pending expenses here as well.
+- Grocery List: Students can view a history of all of their past expenses, who has paid them, and any remaining expenses all in one place.
+
 
 
 ---
