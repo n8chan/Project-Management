@@ -45,16 +45,16 @@ The purpose of CartSync is to provide an intuitive and satisfying solution for c
 
 #### Phase 1:
 ##### Software + Onboarding <b> (Weeks 0-4) </b>
---Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
---Explaining the project scope to the team to align effort and vision. 
+- Help the team install the necessary software and create the appropriate accounts to perform their duties. This applies to technical(Figma, Python, Java, etc.) and workflow software (e.g. Slack, Jira).
+- Explaining the project scope to the team to align effort and vision. 
 Answer any questions regarding the project scope and be receptive to changes to the scope.
 
 ---
 
 #### Phase 2:
 ##### User Research<b> (Weeks 4-9) </b>
-Conduct surveys and user interviews to gather feedback about potential features and interactions within the app. 
-Perform a competitive analysis and gap analysis to understand the current market and how our app can stand out.
+- Conduct surveys and user interviews to gather feedback about potential features and interactions within the app. 
+- Perform a competitive analysis and gap analysis to understand the current market and how our app can stand out.
 
 ---
 
