@@ -111,7 +111,7 @@ Answer any questions regarding the project scope and be receptive to changes to 
 ---
 
 #### Phase 9:
-##### Back-End Development<b> (Weeks 19-25) </b>
+##### App Launch<b> (Weeks 19-25) </b>
 - Monitor app KPIS (Key Performance Metrics).
 - Monitor user feedback
 - Continue to update the app and/or create new features based on feedback and the latest trends in the market using PostHog.
