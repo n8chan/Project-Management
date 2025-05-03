@@ -1,8 +1,11 @@
 ## WaterQuality Ranker
-Jocelyn Yang
-SPRING 2025
+Name: Jocelyn Yang
+
+Semester: SPRING 2025
+
 Link: https://huggingface.co/spaces/brenttf2/Chicago_Beach_Quality_Exploration
 
+![Chicago beaches](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftravellemming.com%2Fchicago-beaches%2F&psig=AOvVaw2Jo303iAQV3zLmvORR551I&ust=1746390706052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDN0sOSiI0DFQAAAAAdAAAAABAE)
 
 ### Introduction/Headings    
 
