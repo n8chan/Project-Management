@@ -1,5 +1,7 @@
-## TITLE
-Name, Semester, link to personal website.
+## WaterQuality Ranker
+Jocelyn Yang
+SPRING 2025
+Link: https://huggingface.co/spaces/brenttf2/Chicago_Beach_Quality_Exploration
 
 
 ### Introduction/Headings    
