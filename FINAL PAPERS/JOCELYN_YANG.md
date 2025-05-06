@@ -5,6 +5,8 @@ Semester: SPRING 2025
 
 Link: https://huggingface.co/spaces/brenttf2/Chicago_Beach_Quality_Exploration
 
+Presentation slides: https://docs.google.com/presentation/d/1fF2vwisC5IhO_KHtqlYJ4GkriSRut8oiNLwC6ZSXa4I/edit?usp=sharing
+
 
 
 <img src="https://github.com/user-attachments/assets/97b34876-41af-41a7-998d-248c10a277a9" width="500"/>
