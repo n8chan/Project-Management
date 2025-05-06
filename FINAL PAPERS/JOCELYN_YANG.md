@@ -113,5 +113,11 @@ As cities face incresaing challenges around climate, pollution, and urban infras
 
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
+City of Chicago. (n.d.). Beach water quality - Automated sensors. Chicago Data Portal. https://data.cityofchicago.org/Parks-Recreation/Beach-Water-Quality-Automated-Sensors/qmqz-2xku/about_data
+
+Chicago Park District. (n.d.). Beaches. https://www.chicagoparkdistrict.com/parks-facilities/beaches
+
+Fondriest Environmental. (2014, July 24). Protecting Chicago’s lakefront: Freshwater beach monitoring. https://www.fondriest.com/news/protecting-chicagos-lakefront-freshwater-beach-monitoring.htm
+
+Pratap, P. L., Redman, S., Fagen, M. C., & Dorevitch, S. (2013). Improving water quality communications at beaches: input from stakeholders. Journal of water and health, 11(4), 647–658. https://doi.org/10.2166/wh.2013.077
 
