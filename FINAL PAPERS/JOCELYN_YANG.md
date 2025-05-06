@@ -89,7 +89,7 @@ The development timeline was organized into four key stages:
 
 Risk management played a critical role here, especially in terms of data limitations (missing data or abnormal data). To address this, we handled the missing values by dropping them or replacing them (depending on the situation) to avoid errors in the interface. Additionally, I ensured all visualizations would adapt to handle things according to user inputs without crashing. This project was managed using a personal vision board to track tasks, issues, and new feature ideas. This helped maintain a clear goal to focus both on immediate deliverables and long-term improvements. While the project was an individual effort, the framework makes it easy to allow collaboration or community contributions in the future, especially if published as an open-source project on GitHub.
 
-#### Technical Debt
+#### Managing Technical Debt
 
 Throughout the development of WaterQuality Ranker, there was careful attention paid to avoiding unnecessary complexity in terms of both the codebase and tool selection. Like many solo projects, there have to be certain trade-offs that are made that can be considered forms of technical debt short-term decisions that might need to be improved upon in the future, in order to support scalability, collaboration, and maintainability. For example, while using Hugging Face Spaces and Altair did allow for an easier and more accessible platform, these tools also have their limitations. Altair, though it is easy and intuitive to use, has constraints when handling large datasets or interactivity that is highly customized. As user demands increase, the existing visualization may not be enough to support more advanced use cases without having improvements made on it in the future. Similarly, the current project structure lacks a modular design, meaning that updating one part of the code, like adding a new data source, may require changes to be made throughout the entire script rather than just in certain methods or adding it to a database without changing the rest of the code. This would be a bigger technical debt that is added up as future improvements would take more time to update. These choices that I made were from a conscious decision to prioritize delivery and usability over long-term scalability, but I realize that in future iterations, this project could benefit from adopting better practices such as modular scripting, API-driven design, or structured testing. Additionally, technical documentation and version control via GitHub would be essential in the next steps as it would heavily reduce technical debt and allow outside contributors to add to this project. Finally, by identifying and acknowledging technical debt early on, this project is in a better position to be maintained and have continuous improvement without compromising the current functionality. This awareness is critical in maintaining projects beyond the initial launch results and ensures that these projects are not short-term decisions, but have the potential to be a long-term project, one that others can build off on.
 
@@ -128,6 +128,10 @@ As cities face increasing challenges around climate, pollution, and urban infras
 
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
+Alicea, B. (2025). Lecture 9: Community Building [Lecture slides]. IS 340: Project Management, University of Illinois Urbana-Champaign.
+
+Alicea, B. (2025). Lecture 20: Project Lifecycle and Sustainability [Lecture slides]. IS 340: Project Management, University of Illinois Urbana-Champaign.
+
 City of Chicago. (n.d.). Beach water quality - Automated sensors. Chicago Data Portal. https://data.cityofchicago.org/Parks-Recreation/Beach-Water-Quality-Automated-Sensors/qmqz-2xku/about_data
 
 Chicago Park District. (n.d.). Beaches. https://www.chicagoparkdistrict.com/parks-facilities/beaches
@@ -135,4 +139,3 @@ Chicago Park District. (n.d.). Beaches. https://www.chicagoparkdistrict.com/park
 Fondriest Environmental. (2014, July 24). Protecting Chicago’s lakefront: Freshwater beach monitoring. https://www.fondriest.com/news/protecting-chicagos-lakefront-freshwater-beach-monitoring.htm
 
 Pratap, P. L., Redman, S., Fagen, M. C., & Dorevitch, S. (2013). Improving water quality communications at beaches: input from stakeholders. Journal of water and health, 11(4), 647–658. https://doi.org/10.2166/wh.2013.077
-
