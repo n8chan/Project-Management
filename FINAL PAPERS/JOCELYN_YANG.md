@@ -21,7 +21,7 @@ This project is more than just a data visualization tool. It also represents an 
 
 [Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
 
-### Project Motivation and Goals
+### Project Motivation & Goals
 [Comment_3]: <> (begin your text here)
 
 The motivation behind the WaterQuality Ranker project comes from the growing concern about the accessiblity and transparency of environmental health data in urban spaces. One of the biggest for me when I consider someplace "clean" or not, will be the quality of the water and the clearness of the water. I want this project to address this concern. This is why as a frequency visitor to Chicago's beaches, I noticed that it is hard to find accurate and recent information the water quality, esepcially during periods of heavy rain or high lake activity. While the City of Chicago does publish public accesible data, it is often in .csv format, making it highly unreadable for the public or those not familiar with csv formats. This gap in usability between data scientists and the general public inspired me to build a tool that could help make vital information such as this one more approachable for the general public and engaging so the community could understand as well.
@@ -39,21 +39,75 @@ Ultimately, this project will aim to make environmental data actionable and use 
 
 [Comment_4]: <> (Insert Figure with caption here)
 
-### Workflow Process and Project Management    
+### Technical Vision & Implementation  
 
-[Comment_5]: <> (begin your text here)
+The WaterQuality Ranker project was built around the idea of transforming open public health datasets into interpretable interactive visualizations that are meaningful and acessible to everyday users. It is hosted on HuggingFace using Altair, the project combines a clean front-end design with reliable data processing to deliver a responsive and informative experience.
 
-__Paragraph heading__         
+The technical implementation began with retrieving and cleaning historical beach water data from the City of Chicago's public dataset, specifically focusing on two datasets, Beach Water Qualitly and E.coli measurements and swim advisoroy records for multiple beach sites in Chicago. Using Python and Pandas, the data was then preprocessed to handle missing values, standardized, and cleaned for further analysis. 
 
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
+For the front end aspect, we are using Altair for its simplicity and it is easy to quickly develop interactive applications. The interface allows users to select which beach they want to check and view the various trends for the season. These plots, created using Matplotlib and Seaborn, showcase key metrics like E. coli levels and distribution comparisons between beaches. To ensure clarity and usability, there was particular attention given to the design of the dashboard, we tried to make it as user friendly as possible while also keeping the simplicity. Interactive dropdown menus and graphs were used to guide users through the exploration process, and labeling was used to make it easy to interpret the results. The layout was designed to support both casual users intersted in beach water quality and researchers or policymakers looking for general trends over time.
 
+### Workflow Process & Project Management    
 
-### Community Engagement      
+As for the development of the WaterQuality Ranker project, I tried to follow a flexible workflow, balancing flexibility with clear goals to keep me on track across all stages of design, data processing, and interface development. Because this was a solo project, managing time and scope was highly important to delivering a functional and high quality product within the deadline.
 
+The initial planning phase focused on identifying the right data sources and setting a clear goal: enabling the community to explore and understand patterns in Chicago beach water quality. This early research period also included assessing which visualization tools I should use which resulted in selecting HuggingFace and Altair for their simplicity and accessibility, taking technical debt into mind as these are relatively popular spaces and methods.
+
+This the workflow I wrote up:
+![Image](https://github.com/user-attachments/assets/2da89281-d87c-4d39-b9fd-ef02cf0403dd)
+
+The development timeline was organized into four key stages:
+
+- **Dataset Selection & Acquisition (Weeks 1–2)**  
+  Tasks: Identify and collect relevant datasets  
+  Participants: Students, project supervisors
+
+- **Data Cleaning & Preprocessing (Weeks 3-4)**  
+  Tasks: Remove inconsistencies, handle missing data, prepare data for analysis  
+  Participants: Students  
+
+- **Variable Selection & Visualization Design (Week 5)**  
+  Tasks: Choose meaningful variables, sketch visualization plans  
+  Participants: Students  
+
+- **Data Analysis & Visualization Creation (Weeks 6-7)**  
+  Tasks: Analyze data, generate visualizations based on prior designs  
+  Participants: Students, supervisors
+
+- **Webpage Development & Presentation (Weeks 8-9)**  
+  Tasks: Build and design webpage to display visualizations, prepare presentation materials  
+  Participants: Students
+
+- **Review & Final Submission (Week 10)**  
+  Tasks: Submit final project, present findings  
+  Participants: Students, supervisors
+
+- **Post-Submission Review:**  
+  Question: Do results warrant follow-up?  
+    Yes: Schedule follow-up with supervisor  
+    No: Project is considered finalized and closed
+
+Risk management played a critical role here, especially in terms of data limitations (missing data or abnormal data). To address this, we handled the missing values by dropping them or replacing them (depending on the situation) to avoid errors in the interface. Additionally, I ensured all visualizations would adapt to handle things according to user inputs without crashing. This project was managed using a personal vision board to track tasks, issues, and new feature ideas. This helped maintain a clear goal to focus both on immediate deliverables and long-term improvements. While the project was an individual effort, the framework makes it easy to allow collaboration or community contributions in the future, especially if published as an open-source project on GitHub.
+
+By applying structured yet flexible project management principles, the development of WaterQuality Ranker was able to be completed in a timely manner, and accomplish both technical and user-experience goals.
+
+### Community Building and Engagement      
 [Comment_7]: <> (begin your text here)
 
-### Conclusion
+A key part of the WaterQuality Ranker project is its potential to serve as a bridge between the publicly available data and the interpretability of that data to the community. While it began as a solo initiative, it is designed with community awareness and public health impact in mind, prioritizing usability, transparency, and educational value. 
 
+The primary users of this platform would be residents of Chicago, tourists, policymakers, researchers, or anyone who is simply intersted in understanding beach water quality. By transforming dense, static datasets into visual, interactive visualizations, this platform helps monitor water safety and encourages data-informed decision making among everyday users. To support engagement, the project is hosted on HuggingFace, making it easy to share vio social media, community forums, or other channels of news. This interface is made to be lightweight and mobile-friendly, enabling quick access for users, making it a flexible application, useful for those who want a quick check before heading to the beach.
+
+Beyond general users, this platform also invites collaboration from educators, data journalists, and researchers. It can be used in the classroom to teach about urban water quality or by journalists investigating trends in public health policies. One future goal is to expand this platform to beaches or other water sources beyond the city of Chicago, so that it can be useful everywhere. Looking ahad, this project was not just about technical enhancements, but also about cultivating public trust and shared use of public data. Ideas for expanding this engagement could include partnering with local environmental nonprofits, creating blog posts about patterns found in the data, or making predictive models to extend the platform functionally. 
+
+### Conclusion
+The WaterQuality Ranker project demonstrates how open data, when thoughtfully presented, can become a powerful tool for public awareness in terms of health safety. By transforming raw data into accessible, easy to visualize graphs and patterns, this project addresses a clear need for the community to acess local water quality information.
+
+Through its interactive dashboard and user-friendly design, this project helps individuals make informed decision about going to the beach while also highlighting urban environmental health patterns. The technical foundation was built in Python, using Altair and HuggingFace. This ensures that the project does not accumulate too much technical debt and that the platform is scalable, adaptable, and ready for future improvements. 
+
+Beyond the technical aspects, this project also opens up a conversation around data-driven decision-making and invites collaboration from local organizations, educators, researchers, or other developers. This project contributes to the broader visino of environmental justice and shared responsbility we all have in public health.
+
+As cities face incresaing challenges around climate, pollution, and urban infrastructure, projects like this one gives us the reminder that we all need of the power of acessible information. From making information readable to everyday users, we can spread awareness and help others understand what they are privy to. With continued refinement and community engagment, WaterQuality Ranker has the potential to become a trusted resource for residents and a model for similar initiatives in other cities or other areas of need.
 
 ### References     
 
