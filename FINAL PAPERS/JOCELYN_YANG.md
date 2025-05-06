@@ -17,7 +17,7 @@ For Chicagoans, urban waterfronts like the ones lining Chicago's Lake Michigan, 
 
 The WaterQuality Ranker project is aimed at addressing this need of information by providing an interactive data dashboard that visualizes water quality trends across the city's beaches. Built using publicly available data from the Chicago city data portal, and intuitive design principles, the platform is designed to inform residents, or other users whether they are environmental researchers or public health officials, to explore historical and real-time data on E. coli levels, swim advisories, and seasonal trends. 
 
-This project is more than just a data visualization tool. It also represents an effort to bridge open data with public engagement, promoting environmental transparency, and enhance community awareness generally around a significant issue that impacts millions of residents and visitors during Chicago's summer months. Through the integratoin of data analysis, user-centered design, and accessible articles, this profect will contribute to smarter urban-decision making and healthier waterfront use. 
+This project is more than just a data visualization tool. It also represents an effort to bridge open data with public engagement, promoting environmental transparency, and enhancing community awareness generally around a significant issue that impacts millions of residents and visitors during Chicago's summer months. Through the integration of data analysis, user-centered design, and accessible articles, this project will contribute to smarter urban-decision making and healthier waterfront use. 
 
 [Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
 
