@@ -28,7 +28,7 @@ This team uses Agile practices. The Agile methodology breaks development into it
 
 ### Phased Development
 
-![Alt text](/FINAL PAPERS/OpenStudyProcessDIagram.jpg)
+![Alt text](https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/OpenStudyProcessDIagram.jpg)
 - **Phase 1 (Week 1-2): Research Needs, Understanding Student Study Patterns**
  We plan to start with a short survey promoted through residence‑hall group chats, and Instagram stories. We'll ask students how often they hunt for space and when that is the most diffcult. At least is 100 responses would be enough for so they we can feel confident in our decisions for our target audience.
 
