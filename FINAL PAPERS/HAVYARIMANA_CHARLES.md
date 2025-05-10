@@ -79,14 +79,15 @@ The choice of cloud provider is not an immediate need as data on classes rarely 
 ### UI Development 
 
 When designing my app, I initially started from scratch. I built the initial home screen and some of the corresponding pages that would appear once clicked. I found this tedious, to say the least. As I started looking into icons and layouts for my app, I started asking if there was a better way. It was at this time I remembered an important lesson I learned from my internship over this past summer. I was working on this fix to correct time-zone issues and spent hours looking through the software documentation. I was trying to come up with an original solution for a problem that had already been solved extensively and quickly realized this was not the way. Utilizing someone’s work (with credit, of course) has been a catalyst for success for decades, so trying to build this template from scratch was inefficient in hindsight. I was then able to work through a template that had the core functions I needed. From here, I could make the most important choices that would fit the needs of my audience.
-![Alt text for accessibility](image-url-or-path "Optional title that shows on hover")
+
+<image src="https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/400%20(1).png" width="125"> <image src="https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/400.png" width="125"> <image src="https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/950.png" width="125">
 
 
 Here I chose a neon green on a dark background. The vibrant green gave a  tech-savvy vibe that worked with my idea of quickly finding study spaces in a fast-paced college environment. I personally have all my devices on dark mode and I know many other students are the same. I found this is easier on the eyes  and dark interfaces can feel modern and sleek. The color palette was one of the most important choices; it would help my interface stand out and establish a visual identity.
-![Alt text for accessibility](image-url-or-path "Optional title that shows on hover")
 
  I wanted my app to feel familiar and secure. From the sign on page it showcases that students must sign in through their UIUC credentials. I want to imply seamless integration with existing campus systems which is a strong convenience factor. This builds trust within the user. Providing quick info on location, distance (“3 Min away”), and building details (e.g., “Armory,” “ECE Building”) allows students to quickly see how far away a room is and if it’s available. Short text snippets would allow students to take a quick glance and know where to go. 
-![Alt text for accessibility](image-url-or-path "Optional title that shows on hover")
+
+<image src="https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/Stations%20Tab%20_%20Page%20LoFi%20(2).png" width = "200"> <image src="https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/Apple%20Login%20_%20Page%20LoFi.png" width= "200">
 
 
 ## Marketing and Adoption Strategy
