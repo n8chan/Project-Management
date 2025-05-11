@@ -1,6 +1,9 @@
 Diego Navarro
+
 IS 340 Project Management Final paper
+
 Digitization Nation-OCR assisted File Digitization.
+
 Abstract
 	Digitization Nation aims to revolutionize the digitization process for galleries, libraries, archives, and museums (GLAM institutions) by leveraging Optical Character Recognition (OCR) and open-source technologies. Digitizing physical files not only saves valuable storage space but also enhances accessibility for staff, patrons, and researchers. However, the current manual process of sorting, naming, and organizing digitized files is labor-intensive and time-consuming. This project streamlines file digitization through Python-powered automation, using Tesseract OCR for text extraction and Ghostscript to convert documents into PDF/A, the archival standard for long-term preservation. Key functionalities include automated document classification, schema-based file naming, and batch processing for efficiency. The system is designed to be modular and adaptable, accessible through a Flask-based web dashboard for ease of use. With an emphasis on open-source collaboration, Digitization Nation aspires to provide GLAM institutions with a customizable, scalable, and user-friendly solution to manage their digitization needs, while also laying a foundation for future enhancements such as machine learning-driven classification and an intuitive graphical user interface (GUI)
 Introduction
