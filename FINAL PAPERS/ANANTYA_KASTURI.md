@@ -61,6 +61,8 @@ The FitSync project will follow an agile development strategy with the following
 - Iterations: Use feedback-driven improvements across all components of the application
 
 
+![Workflow](https://github.com/OREL-group/Project-Management/blob/1c3ec5842090bb13e3e5ccdcba5e5a7b50c96738/FINAL%20PAPERS/FitSync.jpg)
+
 
 ---
 
