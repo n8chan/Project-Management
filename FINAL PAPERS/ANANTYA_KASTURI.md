@@ -28,7 +28,7 @@ Ultimately, our goal is to empower users to be in charge of their fitness throug
 
 ---
 
-#### Target Audience
+### Target Audience
 
 Our platform is primarily designed for the following users:
 
@@ -92,7 +92,7 @@ Proposed Timeline
 
 ---
 
-#### Addressing Technical Debt
+### Addressing Technical Debt
 
 Although technical debt may be inevitable for any software project, specifically one with the complexity of FitSync, our goal is to try and minimize it from the beginning. The following strategies have been put in place to to minimize the impact of technical debt:
 
