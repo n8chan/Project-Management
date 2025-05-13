@@ -67,12 +67,16 @@ Looking ahead, my goal is to keep refining and expanding the site as both my ski
 ## References
 Aidev. (2023, August 28). Can Project Management be automated?. Journyx. 
 https://journyx.com/resources/blog/can-project-management-be-automated/
+
 Landup, D. (2022, April 20). Git essentials: Developer’s guide to git. Stack Abuse. 
 https://stackabuse.com/courses/git-essentials-developers-guide-to-git/
+
 Nieto-Rodriguez, A., & Vargas, R. V. (2023, February 2). How ai will transform project 
 management. Harvard Business Review. 
 https://hbr.org/2023/02/how-ai-will-transform-project-management
+
 Producing open source software. (n.d.). https://producingoss.com/en/index.html
+
 Scharf, G. (2023, February 27). How to make every project a sustainable project. Project 
 Management Articles, Webinars, Templates and Jobs. 
 https://www.projecttimes.com/articles/how-to-make-every-project-a-sustainable-project/
