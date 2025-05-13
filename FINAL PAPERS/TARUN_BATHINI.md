@@ -2,9 +2,9 @@
 Tarun Bathini, Spring 2025, [link to personal website](https://tbath18.github.io/personal-site1/).
 
 
-### Introduction/Headings    
+### Abstract  
 
-[Comment_1]: <> (begin your text here)
+FitFocus is an open-source digital fitness platform designed to personalize workout and nutrition plans through real-time biofeedback and AI-driven recommendations. Addressing the common struggle of generic fitness advice, FitFocus tailors routines based on each user’s biometric data, workout patterns, and personal goals. The project was born from the need for an adaptive fitness solution that evolves with the user, providing smarter recommendations and reducing workout burnout. By integrating wearable data, location-based gym plans, and predictive analytics, FitFocus empowers users to make informed fitness decisions. This paper explores the journey of building FitFocus—from initial motivation and technical design to community engagement and long-term sustainability—showcasing how open-source collaboration can drive meaningful innovation in personal wellness technology.
 
 
 [Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
