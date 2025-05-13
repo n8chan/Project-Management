@@ -12,7 +12,9 @@ From a project management perspective, building and maintaining a portfolio is i
 
 
 
-## Workflow Map| ![](https://github.com/Evimess/Project-Management/blob/main/FINAL%20PAPERS/340evan_workflow.png) | 
+## Workflow Map
+
+| ![](https://github.com/Evimess/Project-Management/blob/main/FINAL%20PAPERS/340evan_workflow.png) | 
 | :--: |
 | <b>Figure 1.</b> Workflow Map Timeline Over 12 Weeks |  
 
