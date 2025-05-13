@@ -1,5 +1,5 @@
-## TITLE
-Name, Semester, link to personal website.
+## FitFocus – Real-Time Fitness Recommendations Through Biofeedback and AI
+Tarun Bathini, Spring 2025, [link to personal website](https://tbath18.github.io/personal-site1/).
 
 
 ### Introduction/Headings    
