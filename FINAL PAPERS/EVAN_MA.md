@@ -21,14 +21,22 @@ From a project management perspective, building and maintaining a portfolio is i
 The workflow map provides an approximate timeline for completing my personal portfolio website. Thanks to prior work in other courses, I’ve already made some progress in the research and initial setup phases. Compared to the Kanban method discussed in class, this workflow map offers a clearer week-by-week timeline, which I find more effective for planning and visualizing how each step builds upon the last. It also highlights how tasks are interrelated, which helps me manage dependencies more strategically.
 Using a workflow map is especially helpful in a solo project like this because it provides visual clarity and structure. It allows me to see how tasks are connected and which ones are dependent on others. It also makes the timeline feel less overwhelming by giving me smaller milestones to work toward. In essence, the workflow map acts as both a planning tool and a self-accountability mechanism, ensuring that I stay organized, realistic, and focused throughout the project lifecycle.
 <ins>Research Phase<ins>
+
 During this stage, I plan to explore library documentation in greater depth for tools like Jekyll and Altair. I will also research creative ways to transform static text or graphs into interactive visual elements. Rather than designing the front end from scratch (which is not my strongest area), I intend to customize an existing Jekyll template. This allows me to focus more on functionality and interactivity while maintaining a clean and professional aesthetic.
+
 <ins>Setup Phase<ins>
+
 This phase involves establishing the GitHub Pages hosting environment, writing initial scripts in VSCode, and implementing a draft version of the website using a chosen template. My goal is to develop a minimally functional site that compiles cleanly and is error-free, enabling a stable deployment to a permanent web address.
+
 <ins>Feedback and Design Phase<ins>
+
 In this stage, I will refine the site’s design based on my own usability testing and aesthetic preferences. I’ll also revise the order and content of the pages for better flow. Additionally, I may share the portfolio on developer forums or community spaces to gather external feedback both on visual design and overall efficiency.
+
 <ins>Project Integration Phase<ins>
+
 Here, I will organize and embed the projects I’ve completed in other classes or research roles. Each project will be linked appropriately within the portfolio, ensuring that source code is visible on GitHub and that any relevant datasets are accessible and displayed properly.
 <ins>Final Touches Phase<ins>
+
 The final phase will involve fixing any remaining bugs, polishing design elements, and ensuring cross-browser and mobile compatibility. At this point, the site should be fully functional, visually cohesive, and ready for public presentation.
 
 ## Open Source
