@@ -50,7 +50,7 @@ While the backend functionality is not yet implemented, the prototype serves as 
 
 From the start, MoodMate was shaped by community input. Through interviews, surveys, and usability testing with a diverse group of college students, the project collected ongoing feedback at each stage. This feedback influenced feature selection, UI improvements, and emotional tone.
 
-Participation was not limited to design—it extended into reflection. Testers shared what they needed most from a mental health tool. Some wanted reminders. Others valued affirmations. Some preferred quick access, while others prioritized customization. MoodMate’s final feature set emerged directly from this dialogue.
+Testers shared what they needed most from a mental health tool. Some wanted reminders. Others valued affirmations. Some preferred quick access, while others prioritized customization. MoodMate’s final feature set emerged directly from this dialogue.
 
 The Figma prototype reflects this participatory spirit. It invites future users and developers to explore, critique, and build upon the design. By prioritizing clarity, accessibility, and inclusivity, the app removes barriers to contribution—even without a background in software development.
 
@@ -84,7 +84,7 @@ MoodMate was developed using Figma, allowing for rapid prototyping and visual re
 
 The Home screen is clean and uncluttered, with clearly labeled buttons and subtle color schemes for a calming user experience. The Meditation feature includes an animated breathing wheel and now allows users to restart sessions, accommodating feedback that previous versions felt too rigid or time-consuming.
 
-The Mood Log was one of the most significant updates, transitioning from manual input to interactive emotion buttons. Users select a feeling (e.g., happy, stressed), explain its cause, and are then shown a targeted affirmation such as “I am worthy of feeling happy.” This integration of mood data with affirmations elevates the feature from passive tracking to active support.
+The Mood Log was one of the most significant updates, transitioning from manual input to interactive emotion buttons. Users select a feeling (ex. happy, stressed), explain its cause, and are then shown a targeted affirmation such as “I am worthy of feeling happy.” This integration of mood data with affirmations elevates the feature from passive tracking to active support.
 
 The Summary module combines heart rate data and mood entries to show weekly patterns. Users can select a specific emotion to see when it occurred during the week, or explore heart rate trends across different times of day. These updates, based on user interviews, turned the summary from a static graph into an engaging and reflective space.
 
@@ -92,17 +92,17 @@ Figma’s interface was instrumental in making MoodMate’s design accessible fo
 
 ### Evaluation and Feedback
 
-To assess MoodMate’s effectiveness, an evaluation was conducted with a sample of 12 undergraduate students representing diverse majors and years. Participants interacted with the prototype independently and responded to a combination of Likert-scale and open-ended questions, evaluating satisfaction, usefulness, and interface appeal.
+To assess MoodMate’s effectiveness, an evaluation was conducted with a sample of 12 undergraduate students representing diverse majors and years. Participants interacted with the prototype independently and responded to a combination of scale and open-ended questions, evaluating satisfaction, usefulness, and interface appeal.
 
-The average satisfaction score was 4.0 out of 5, with users praising the simplicity and consistency of the design. The Mood Log and Summary features were frequently cited as favorites, especially for their clarity and emotional relevance. However, some users expressed a preference for mobile apps over smartwatch use, indicating future potential for cross-platform development.
+The average satisfaction score was 4.0 out of 5, with users praising the simplicity and consistency of the design. The Mood Log and Summary features were frequently cited as favorites, especially for their clarity and emotional relevance. However, some users expressed a preference for mobile apps over smartwatch use, indicating future potential for a cross platform development.
 
 Qualitative feedback underscored recurring themes of aesthetic appeal, emotional accessibility, and clarity of navigation. One participant shared that “the breathing exercises were my favorite—it was nice to have a feature that helped me calm down instantly.” Another noted that the summary feature allowed them to “see emotional patterns and reflect on how different moments affected their mood.”
 
 This feedback reaffirmed the value of linking emotional insights with interface design. While not everyone owned a smartwatch, the overall consensus was that if such a tool existed, it would serve as a helpful companion for moments of stress.
 
 
-### Workflow Process & Project Management
 
+### Workflow Process & Project Management
 
 
 
@@ -129,11 +129,11 @@ MoodMate is not just a prototype; it is a quiet invitation. It invites users to 
 By prioritizing emotional intelligence, user feedback, and modular growth, MoodMate offers a replicable model for open-source mental health projects—especially in non-technical spaces. This project reflects the belief that working open is not reserved for codebases, but belongs to any system designed with care, clarity, and collaboration in mind.
 
 ### Conclusion      
-The creation of MoodMate highlighted the transformative power of listening—to users, to design patterns, and to shared emotional needs. Although the tool exists only in Figma, its functionality reflects real-world problems and user-desired solutions.
+The creation of MoodMate highlighted the transformative power of listening-to users, to design patterns, and to shared emotional needs. Although the tool exists only in Figma, its functionality reflects real world problems and user-desired solutions.
 
 One of the most important takeaways was the role of emotional context in interface design. Every feature, from mood logs to meditation wheels, had to not only function smoothly, but also feel supportive. The balance between technical clarity and emotional resonance shaped every decision.
 
-The project also reinforced that open collaboration doesn’t always need a codebase. Figma, interviews, and user surveys formed a collaborative loop, where ideas could grow and adapt without technical barriers. In this way, the project expanded the meaning of working open—demonstrating that shared impact can arise from shared design.
+The project also reinforced that open collaboration doesn’t always need a codebase. Figma, interviews, and user surveys formed a collaborative loop, where ideas could grow and adapt without technical barriers. In this way, the project expanded the meaning of working open-demonstrating that shared impact can arise from shared design.
 
 MoodMate serves as both a project and a prototype for broader design thinking: empathetic, iterative, and responsive. Whether or not it becomes a full app, it reflects a vision of wellness tools that are human-centered and community-conscious. And that vision, even in its simplest form, has value.
 
