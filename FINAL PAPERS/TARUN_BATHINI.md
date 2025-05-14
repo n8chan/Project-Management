@@ -45,7 +45,17 @@ Here’s a rough timeline for the first version of FitFocus:
 All project tasks will be tracked using GitHub Projects for visibility and organization. Communication will happen on Discord for easy collaboration if more people join.
 
 
-### Conclusion      
+### Community Building & Sustainability
+
+Since FitFocus is open-source, the goal is to build a community that actually wants to improve it, not just use it. The first step is making sure everything is well-documented. This means having a clean README, simple setup guides, and clear contribution rules. If people cannot figure out how to get started, they won’t bother contributing.
+
+For communication, I’ll use a GitHub Discussions page and a Discord server for real-time chat. This makes it easier for developers, fitness enthusiasts, and even casual users to give feedback, suggest features, or report bugs.
+
+One big focus is making FitFocus flexible. Developers should be able to add new workouts, new metrics, or even connect new devices without messing up the core app. To keep things organized, I’ll use GitHub Projects for task tracking and have a simple roadmap showing what features are planned next.
+
+On the sustainability side, I’m not planning to monetize FitFocus in the beginning. Instead, I’ll explore GitHub Sponsors and OpenCollective to cover basic costs like hosting and domain names. Long-term, if there’s enough interest, partnerships with small gyms or fitness influencers could help keep the project alive while still keeping it free and open-source.
+
+The key to sustainability is community ownership. FitFocus should not be a one-person project forever. By setting up a merit-based system where active contributors can become maintainers, the project can keep growing even if I’m not the only one working on it.
 
 [Comment_7]: <> (begin your text here)
 
