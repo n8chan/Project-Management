@@ -57,11 +57,21 @@ On the sustainability side, I’m not planning to monetize FitFocus in the begin
 
 The key to sustainability is community ownership. FitFocus should not be a one-person project forever. By setting up a merit-based system where active contributors can become maintainers, the project can keep growing even if I’m not the only one working on it.
 
-[Comment_7]: <> (begin your text here)
 
 
-### References     
+### Challenges & Risk Management  
 
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
+Building FitFocus comes with several anticipated challenges that need to be addressed to ensure the project’s success.
+
+One of the main concerns is data accuracy. Wearable devices often provide estimates rather than precise measurements, especially for metrics like heart rate variability or sleep quality. To mitigate this, FitFocus will present its recommendations as guidance rather than strict instructions. Users will always have the ability to adjust or override suggestions based on how they feel, keeping the experience flexible and user-driven.
+
+Another challenge is community engagement. As an open-source project, FitFocus relies on contributors for growth and improvement. Attracting and retaining contributors requires clear documentation, beginner-friendly tasks, and active communication channels like GitHub Discussions and Discord. Building a welcoming and collaborative environment will be a priority from the start.
+
+There is also the risk of feature bloat. Fitness apps often try to do too much, which can overwhelm users and complicate development. FitFocus will avoid this by maintaining a focused scope for the initial release, concentrating on form feedback, habit tracking, and adaptive workout recommendations. Future features will be added based on user feedback and community input, ensuring the project stays aligned with its core purpose.
+
+From a technical standpoint, managing technical debt is essential. The development process will follow best practices such as modular code structure, version control, code reviews, and automated testing using GitHub Actions. This approach will help maintain code quality and ease future updates.
+
+Finally, there is the challenge of sustainability and avoiding burnout. To address this, FitFocus will adopt a community-driven governance model, encouraging active contributors to take on maintainer roles. This shared ownership will help distribute responsibilities and keep the project evolving over time.
+
 
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
