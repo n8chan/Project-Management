@@ -59,7 +59,7 @@ The key to sustainability is community ownership. FitFocus should not be a one-p
 
 
 
-### Challenges & Risk Management  
+### Technical Debt & Risk Management  
 
 Building FitFocus comes with several anticipated challenges that need to be addressed to ensure the project’s success.
 
