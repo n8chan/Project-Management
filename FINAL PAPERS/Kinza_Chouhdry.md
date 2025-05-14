@@ -1,9 +1,12 @@
 ## MoodMate: An Open Mental Health App 
+
 Name: Kinza Chouhdry
+
 Semester: SPRING 2025
+
 Link to Prototype: https://www.figma.com/proto/GsprM5xOg0d2Ra7qxSQVD5/Checkpoint-4--Prototype?node-id=2035-126&node-type=frame&t=aQyp9337Oh4qnRTB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2035%3A126&show-proto-sidebar=1
 
-### ABSTRACT
+### Abstract
 
 MoodMate is an open design smart watch or phone prototype built by me and a group of students who worked on it in a previous class. This was designed on Figma to promote mental wellness through stress regulation, emotional awareness, and user personalization. MoodMate was intitally constructed for college students, but is open to all individuals. MoodMate offers users features like mood logging, breathing meditations, affirmations, and heart rate-based summaries. Though it is not a code-based project, MoodMate exemplifies the open source philosophy through transparent design processes, peer reviewed user testing, and documentation that invites collaboration. The users who were surveyed appreciated the clear design and thoughtful interactions, noting how the app felt consistent and easy to navigate. MoodMate empowers users to better understand and manage their stress in a way that fits seamlessly into their day.
 
