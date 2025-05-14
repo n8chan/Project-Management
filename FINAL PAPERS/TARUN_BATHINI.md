@@ -33,13 +33,15 @@ The development process will follow a simple agile workflow. I’m planning shor
 
 Here’s a rough timeline for the first version of FitFocus:
 
-Phase	Timeframe	Goals
-Research & Planning	Weeks 1-2	Define user needs, finalize features
-Frontend Development	Weeks 3-5	Build main UI, connect wearable APIs
-Backend Setup	Weeks 6-7	User authentication, data storage
-AI Integration	Weeks 8-10	Add form feedback & biofeedback logic
-Testing & Feedback	Weeks 11-12	User testing, fix bugs, polish UX
-Launch MVP	Week 13	Release first version to the public
+| **Phase**                | **Timeframe**   | **Goals**                             |
+|--------------------------|-----------------|----------------------------------------|
+| Research & Planning       | Weeks 1-2       | Define user needs, finalize features   |
+| Frontend Development      | Weeks 3-5       | Build main UI, connect wearable APIs   |
+| Backend Setup             | Weeks 6-7       | User authentication, data storage     |
+| AI Integration            | Weeks 8-10      | Add form feedback & biofeedback logic  |
+| Testing & Feedback        | Weeks 11-12     | User testing, fix bugs, polish UX      |
+| Launch MVP                | Week 13         | Release first version to the public    |
+
 All project tasks will be tracked using GitHub Projects for visibility and organization. Communication will happen on Discord for easy collaboration if more people join.
 
 
