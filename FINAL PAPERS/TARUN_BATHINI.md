@@ -92,11 +92,17 @@ Going forward, I hope FitFocus can become a platform that helps more people take
 
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
 
-### References
+## References
 
-OpenPose: Real-time multi-person keypoint detection library by Carnegie Mellon University. Retrieved from https://github.com/CMU-Perceptual-Computing-Lab/openpose
-MediaPipe: Cross-platform machine learning solutions for live and streaming media. Google Developers. Retrieved from https://mediapipe.dev/
-GitHub Open Source Guides. Best practices for open source project management. Retrieved from https://opensource.guide/
-The Open Source Way. Community-focused guide on open source principles. Retrieved from https://www.theopensourceway.org/
-Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi. Harper & Row, 1990.
-Habit formation and behavior change research: Lally, P., van Jaarsveld, C.H., Potts, H.W. et al. "How are habits formed: Modelling habit formation in the real world." European Journal of Social Psychology. 40, 998–1009 (2010).
+- [OpenPose: Real-time multi-person keypoint detection library by Carnegie Mellon University](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
+- [MediaPipe: Cross-platform machine learning solutions for live and streaming media (Google Developers)](https://mediapipe.dev/)
+
+- [GitHub Open Source Guides: Best practices for open source project management](https://opensource.guide/)
+
+- [The Open Source Way: Community-focused guide on open source principles](https://www.theopensourceway.org/)
+
+- Csikszentmihalyi, M. *Flow: The Psychology of Optimal Experience*. Harper & Row, 1990.
+
+- Lally, P., van Jaarsveld, C.H., Potts, H.W. et al. "How are habits formed: Modelling habit formation in the real world." *European Journal of Social Psychology*, 40, 998–1009 (2010).
+
