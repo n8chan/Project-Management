@@ -37,7 +37,7 @@ During the Full App Launch and Improvements stage, we would launch automated dis
 The next stage would be after the launch. Things will not just stop. There will be ongoing tasks that need to be completed to make sure the app is working efficiently. These would include monitoring the system’s performance, implementing regular updates to keep the app running smoothly for users, and to keep expanding the app audience. It would also be beneficial to find more partnerships to help the app grow on a global scale once the app does well in each region of the United States. 
 
 ### Workflow Process 
-| ![](https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/Workflow%20Process%20Map%20-%20Guarni%20.jpg) | 
+| ![](https://github.com/emmaguarni/Project-Management/blob/main/FINAL%20PAPERS/Workflow%20Process%20Map%20-%20Guarni%20.jpg) | 
 | :--: |
 | <b>Figure 1.</b> Image of workflow from onboarding to to launch. The description of these phases are written above. |
 
