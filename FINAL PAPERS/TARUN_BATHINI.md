@@ -44,6 +44,7 @@ Here’s a rough timeline for the first version of FitFocus:
 
 All project tasks will be tracked using GitHub Projects for visibility and organization. Communication will happen on Discord for easy collaboration if more people join.
 
+![FitFocus Workflow](./FINAL%20PAPERS/focusfit.jpg)
 
 ### Community Building & Sustainability
 
