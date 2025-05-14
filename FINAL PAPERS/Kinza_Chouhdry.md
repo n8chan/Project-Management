@@ -8,8 +8,6 @@ Link to Prototype: https://www.figma.com/proto/GsprM5xOg0d2Ra7qxSQVD5/Checkpoint
 MoodMate is an open design smart watch or phone prototype built by me and a group of students who worked on it in a previous class. This was designed on Figma to promote mental wellness through stress regulation, emotional awareness, and user personalization. MoodMate was intitally constructed for college students, but is open to all individuals. MoodMate offers users features like mood logging, breathing meditations, affirmations, and heart rate-based summaries. Though it is not a code-based project, MoodMate exemplifies the open source philosophy through transparent design processes, peer reviewed user testing, and documentation that invites collaboration. The users who were surveyed appreciated the clear design and thoughtful interactions, noting how the app felt consistent and easy to navigate. MoodMate empowers users to better understand and manage their stress in a way that fits seamlessly into their day.
 
 
-
-
 ### Introduction  
 
 MoodMate was designed and created to support users in managing stress and building emotional resilience through simple and repeatable habits. Its vision is to offer a compact, wrist-based experience that encourages users to check in with themselves even on the busiest days. This design was heavily influenced by the concept of Fitness App on Apple's Smartwatch. As many individuals take to it for physical health purposes, MoodMate is another health tracking system. 
@@ -120,18 +118,6 @@ Deployment (1 week): A beta version of the smartwatch app is launched, ideally t
 
 Maintenance (ongoing): Updates, bug fixes, and scaling are addressed continuously. This phase reflects MoodMate’s open-ended growth potential, allowing for future integration of journaling features, multilingual support, and real-world implementation with wearables.
 
-
-
-### Managing Technical Debt
-
-
-
-### Gamification and Community-Building
-
-
-
-
-### Release and Support Cycles
 
 
 ### Community Building and Engagement
