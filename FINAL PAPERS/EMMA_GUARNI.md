@@ -37,8 +37,21 @@ During the Full App Launch and Improvements stage, we would launch automated dis
 The next stage would be after the launch. Things will not just stop. There will be ongoing tasks that need to be completed to make sure the app is working efficiently. These would include monitoring the system’s performance, implementing regular updates to keep the app running smoothly for users, and to keep expanding the app audience. It would also be beneficial to find more partnerships to help the app grow on a global scale once the app does well in each region of the United States. 
 
 ### Workflow Process 
+| ![](https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/Workflow%20Process%20Map%20-%20Guarni%20.jpg) | 
+| :--: |
+| <b>Figure 1.</b> Image of workflow from onboarding to to launch. The description of these phases are written above. |
 
 ### Timeline 
+| Timeframe | Task | Milestone |
+|----------|----------|----------|
+| 1-2 months to complete | Research and Planning  | Milestone 1: Research and Planning Complete |
+| 3 moths to complete  | Minimum Viable Product Development and Testing  | Milestone 2: MVP created and tested  |
+| 2 months to complete   | Community and Partner Onboarding  | Milestone 3: NGO partnerships secured  |
+| 2 months to complete   | Testing and Scalability Enhancements  | Milestone 4: More than 5,000 beta users onboarded  |
+| 2 months to complete   | Full App Launch and Improvements   | Milestone 5: App successfully launched, regular users acquired   |
+| Continuing Process   | Ongoing tasks after launch  | Expand globally and implemented automatically on devices  |
+
+
 
 ### Addressing Technical Debt 
 By my choice of tools, it looks as though I will be in debt around $500,000 to start off. I think this is an accurate number because depending on scaling and features, I would still have to pay for app development, technology infrastructure, security and compliance, marketing, mapping tools, training, hardware and equipment, as well as all the individuals needed to make this app successful. Those people include software developers and engineers, UX/UI designers, Disaster response experts, Crisis mappers, Data scientists, Networking specialists, and Community volunteers. This Disaster Relief app would take technical debt to start running, but after some channeling from NGOs, humanitarian groups, and social media, there may be some funding help after. This cannot be relied on though. I think for the app to have all the features promised, I still need to spend while being money conscious. For example, I must spend money on security and compliance which could lead to potential debt. These features would include 2 Factor Authentication as well as End-to-End Encryption for sensitive data. This would be to make sure that the user’s data is protected and that communication on the app is not interfered with. For infrastructure, I was leaning towards cloud hosting which would help with scaling for many locations all over the country. Although, this would incur some technical debt in the long run because platforms like Firebase and Google Cloud have expensive hosting fees. 
@@ -67,9 +80,3 @@ Mozilla Foundation. (n.d.). Working open: Mozilla open leadership training serie
 OpenSource.com. (n.d.). What is open source? https://opensource.com/resources/what-open-source
 
 Project Management Institute Inc. (n.d.). Agile Practice Guide . AgileAlliance. https://www.agilealliance.org/wp-content/uploads/2021/02/AgilePracticeGuide.pdf 
-
-
-
-
-## Here is the most recent book series that I have finished: 
-![Alt text](https://i.pinimg.com/originals/98/bf/28/98bf2852ec5d5a82c1d1c7b54c9f195e.jpg)
