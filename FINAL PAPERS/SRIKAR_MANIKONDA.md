@@ -4,14 +4,14 @@ IS 340 final paper 
 
 4/26/25
 
-**Abstract** 
+## Abstract
 
 The hypothetical open-source project I am presenting is Campuscribs. Campuscribs is the premier open-source subletting platform designed specifically for college communities, changing how students and young renters find, list, and manage short-term housing opportunities on college campuses. Built as a full-stack web application with Node.js, TypeScript, and React, Campuscribs offers a powerful, modern , and student-friendly foundation for finding housing tailored to the subletting culture of university housing systems. Campuscribs provides an amazing platform where students can post sublets, search for subletting options near campus, communicate securely with potential tenants, and manage their listings. This would all from a responsive user interface on the web. Ultimately, Campuscribs is spearheading a broader movement which is represented by **my vision statement: Campuscribs is democratizing access to affordable, flexible short-term student housing.** By remaining fully open-source and actively fostering a collaborative development community, it empowers universities, students , and independent developers to customize, extend, and deploy Campuscribs instances based on local needs, customized on college, housing type or anything else. Campuscribs can be the first of many open and powerful innovations in one of the most entrenched and difficult markets of housing. 
 
 
 
 
-**Introduction + Background**
+## Introduction + Background
 
 The idea for Campuscribs was formed from a personal struggle with the problem of student housing. During the summer of my freshman year for an internship, finding housing on or near campus became an unexpectedly chaotic and frustrating experience. I had two options. The first was trying to reach out to my personal network and hope someone had an apartment to sublet from . Meanwhile many of the leasing companies would intentionally mislead me about open sublets, or opt to charge me for extravagant fees for their available sublet listings. The final option was to navigate an unreliable and fragmented network of ad-hoc listings shared on social media platforms like Snapchat stories, Facebook groups, and poorly maintained third-party websites. 
 
@@ -21,7 +21,7 @@ However, this struggle was not unique to my campus. Across universities nationwi
 
 Ultimately, this is the core vision of **Campuscribs**. It is a full-stack web application built with Node.js, TypeScript, and React, designed from the ground up to provide a seamless, transparent, and trustworthy experience for students seeking or offering sublets. Campuscribs not only organizes listings in an intuitive, searchable interface, but also empowers users to post, manage, and communicate securely which would all be accessible within a single platform. It represents a step toward modernizing student housing, making it accessible, safe, and community-driven through open-source technology in a centralized place. 
 
-**Project Design, Development, and Strategy** 
+## Project Design, Development, and Strategy
 
 _**Project Design**_
 
@@ -64,7 +64,7 @@ For the principle of project sustainability, managing and budgeting costs will b
 
 
 
-**Target Audience and Community**
+## Target Audience and Community
 
 The community strategy for Campuscribs is built on two parallel goals. The first would be to serve the student users who need the platform. The second would be to build an active network of technical contributors who will help improve and sustain it. We already understand that the primary user audience is undergraduate and graduate students who are seeking short-term housing options near their campuses. These students often need temporary accommodations for summer internships,  co-ops, or mid-year housing transitions such as coming to and from college transfers or study abroad or exchange programs. Campuscribs is designed in mind for this audience and is hoping to  provide a smoother, safer, and more centralized alternative than existing competitors. The platform will be especially attractive to students who value verified listings, easy search functionality, and a clean, professional user experience that mirrors modern consumer platforms like Zillow or Airbnb.
 
@@ -76,7 +76,7 @@ Second, Campuscribs will actively seek partnerships with UIUC student organizati
 
 Finally, to make sure that both users and contributors stay connected, communication channels such as GitHub, or Slack/Discord servers will be set up. Transparency around project direction, updates, and priorities will build trust and encourage a sense of shared ownership among everyone involved and will be posted on these forums. 
 
-**Conclusion**
+## Conclusion
 
 Campuscribs is driven by the overarching motives of  empowering students with better tools for managing their housing needs, and to empower contributors with a welcoming, transparent, and impactful open-source project, especially for technical college students . If successful,  Campuscribs will revolutionize the way students think about short-term housing on college campus, and will truly disrupt one of the most sluggish industries. By giving students a great, central platform to find and lease student housing properties, Campuscribs can be wildly successful and provide a meaningful impact to a real problem on college campuses today. 
 
@@ -84,7 +84,7 @@ Campuscribs is driven by the overarching motives of  empowering students with b
 
 
 
-**Works Cited**
+## Works Cited
 
 “Best Practices for Maintainers.” _Open Source Guides_ (GitHub), n.d. Web.[https://opensource.guide/best-practices/#:~:text=One of the most important,project is by adding tests](https://opensource.guide/best-practices/#:~:text=One of the most important,project is by adding tests)
 
