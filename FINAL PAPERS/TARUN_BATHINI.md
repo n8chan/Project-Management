@@ -82,4 +82,21 @@ I also learned that managing technical work is not just about writing code. Keep
 
 Most of all, I learned that open-source is really about sharing the process. It is not about building something perfect by yourself. It is about creating something that other people can build with you. That mindset is what I want to take with me going forward.
 
+### Conclusion
+
+FitFocus started as a simple idea to make fitness advice more personal and actually useful. Over time, it grew into a project that taught me a lot about planning, building, and managing something real. This project is not just about workouts or tracking data. It is about creating a tool that respects how different everyone’s fitness journey is.
+
+Through working on FitFocus, I learned how important it is to stay focused on solving one problem well. I also learned that open-source projects only grow when you make it easy for people to get involved. The best part of this process was seeing how open-source is not just about code. It is about community, learning, and building together.
+
+Going forward, I hope FitFocus can become a platform that helps more people take control of their fitness in a way that works for them. With the help of contributors and users, this project can keep improving and growing beyond just my original vision.
+
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
+
+### References
+
+OpenPose: Real-time multi-person keypoint detection library by Carnegie Mellon University. Retrieved from https://github.com/CMU-Perceptual-Computing-Lab/openpose
+MediaPipe: Cross-platform machine learning solutions for live and streaming media. Google Developers. Retrieved from https://mediapipe.dev/
+GitHub Open Source Guides. Best practices for open source project management. Retrieved from https://opensource.guide/
+The Open Source Way. Community-focused guide on open source principles. Retrieved from https://www.theopensourceway.org/
+Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi. Harper & Row, 1990.
+Habit formation and behavior change research: Lally, P., van Jaarsveld, C.H., Potts, H.W. et al. "How are habits formed: Modelling habit formation in the real world." European Journal of Social Psychology. 40, 998–1009 (2010).
