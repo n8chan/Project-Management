@@ -74,12 +74,12 @@ From a technical standpoint, managing technical debt is essential. The developme
 Finally, there is the challenge of sustainability and avoiding burnout. To address this, FitFocus will adopt a community-driven governance model, encouraging active contributors to take on maintainer roles. This shared ownership will help distribute responsibilities and keep the project evolving over time.
 
 ### Reflection & Learning
-Working on FitFocus has taught me a lot about what it really takes to bring an open-source project to life. It’s easy to come up with ideas, but turning them into something useful requires planning, flexibility, and collaboration. One of the biggest lessons I’ve learned is the importance of clear scope. It’s tempting to keep adding features, but staying focused on the core problem ensures the project remains manageable and actually delivers value.
+Working on FitFocus made me realize how much harder it is to build a useful project than it looks. It is easy to come up with cool ideas, but staying focused on what actually helps people is where the real work happens. I learned that trying to add too much at once can slow everything down. Keeping it simple and doing one thing well is more important.
 
-Another key takeaway is how critical community involvement is for open-source success. Good documentation, clear contribution guidelines, and active communication channels are not optional — they are essential for getting others to care about your project. FitFocus is not just my personal tool; it’s designed to be a platform that grows through community input. That mindset shift was important.
+One of the biggest things I learned is how much open-source depends on clear communication. Good code is not enough. You need to have solid documentation, clear instructions, and simple ways for people to get involved. If someone wants to help but cannot figure out how, they will just leave. That is on the project owner to fix.
 
-On the technical side, balancing innovation with maintainability has been a valuable lesson. Using modular design, automated testing, and version control are not just best practices — they make it possible for other developers to contribute without breaking things. This will keep the project healthy in the long run.
+I also learned that managing technical work is not just about writing code. Keeping things organized with version control and small, manageable updates makes life easier for everyone. If the project is clean and well-structured, it becomes easier for new people to contribute without getting lost.
 
-Finally, I’ve realized that open-source is not just about code. It’s about building something in the open, being transparent with challenges, and creating a space where others can learn and contribute. That collaborative spirit is what makes open-source special, and it’s something I want to carry forward in future projects.
+Most of all, I learned that open-source is really about sharing the process. It is not about building something perfect by yourself. It is about creating something that other people can build with you. That mindset is what I want to take with me going forward.
 
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
