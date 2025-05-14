@@ -24,9 +24,23 @@ The design is also super focused on keeping it easy to use. No complicated dashb
 
 I am also keeping the project modular. This means features like nutrition tracking, mood logging, or community workouts can be added over time without breaking the app. This way, other developers can contribute and expand FitFocus based on what people want.
 
-__Paragraph heading__         
+### Technical Infrastructure & Workflow
+To build FitFocus, I’m keeping the tech stack simple but effective. The front end will be done in React because it’s easy to build clean user interfaces and has a ton of community support. For the back end, I’ll use Node.js with Express, handling user accounts, API requests, and managing data. The database will be PostgreSQL to store user profiles, workout history, and biofeedback logs.
 
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
+For the AI part, I’ll start with open-source models like MediaPipe for body pose estimation. This will let the app analyze workout form from videos or live camera feeds. Over time, as more users join, the model can be improved with community contributions.
+
+The development process will follow a simple agile workflow. I’m planning short two-week sprints, where each sprint focuses on one core feature. After each sprint, I’ll do testing, get feedback, and make improvements. This keeps the project moving without overwhelming myself or any future contributors.
+
+Here’s a rough timeline for the first version of FitFocus:
+
+Phase	Timeframe	Goals
+Research & Planning	Weeks 1-2	Define user needs, finalize features
+Frontend Development	Weeks 3-5	Build main UI, connect wearable APIs
+Backend Setup	Weeks 6-7	User authentication, data storage
+AI Integration	Weeks 8-10	Add form feedback & biofeedback logic
+Testing & Feedback	Weeks 11-12	User testing, fix bugs, polish UX
+Launch MVP	Week 13	Release first version to the public
+All project tasks will be tracked using GitHub Projects for visibility and organization. Communication will happen on Discord for easy collaboration if more people join.
 
 
 ### Conclusion      
