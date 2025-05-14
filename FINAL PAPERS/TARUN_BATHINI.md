@@ -73,5 +73,13 @@ From a technical standpoint, managing technical debt is essential. The developme
 
 Finally, there is the challenge of sustainability and avoiding burnout. To address this, FitFocus will adopt a community-driven governance model, encouraging active contributors to take on maintainer roles. This shared ownership will help distribute responsibilities and keep the project evolving over time.
 
+### Reflection & Learning
+Working on FitFocus has taught me a lot about what it really takes to bring an open-source project to life. It’s easy to come up with ideas, but turning them into something useful requires planning, flexibility, and collaboration. One of the biggest lessons I’ve learned is the importance of clear scope. It’s tempting to keep adding features, but staying focused on the core problem ensures the project remains manageable and actually delivers value.
+
+Another key takeaway is how critical community involvement is for open-source success. Good documentation, clear contribution guidelines, and active communication channels are not optional — they are essential for getting others to care about your project. FitFocus is not just my personal tool; it’s designed to be a platform that grows through community input. That mindset shift was important.
+
+On the technical side, balancing innovation with maintainability has been a valuable lesson. Using modular design, automated testing, and version control are not just best practices — they make it possible for other developers to contribute without breaking things. This will keep the project healthy in the long run.
+
+Finally, I’ve realized that open-source is not just about code. It’s about building something in the open, being transparent with challenges, and creating a space where others can learn and contribute. That collaborative spirit is what makes open-source special, and it’s something I want to carry forward in future projects.
 
 Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
