@@ -44,7 +44,12 @@ Here’s a rough timeline for the first version of FitFocus:
 
 All project tasks will be tracked using GitHub Projects for visibility and organization. Communication will happen on Discord for easy collaboration if more people join.
 
-![FitFocus Workflow]([./FINALPAPERS/focusfit.jpg](https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/focusfit.jpg))
+### Workflow & Weekly Plan
+
+Below is the weekly plan and workflow visualization for FitFocus, outlining the main phases from planning to community onboarding.
+
+![FitFocus Workflow](https://github.com/OREL-group/Project-Management/blob/main/FINAL%20PAPERS/focusfit.jpg)
+
 
 ### Community Building & Sustainability
 
