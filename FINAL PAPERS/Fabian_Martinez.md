@@ -71,7 +71,7 @@ As far as the onboarding process goes, it will involve assembling a team of deve
 
 ---
 
-## 🧪 User Research
+## User Research
 Research will begin with surveys and interviews targeting a diverse group of UIUC students across majors and years from freshmen to seniors and from information science majors to industrial engineers. The focus will be understanding where students currently go for elective advice. We also want to know what information they value most, and their willingness to contribute to a platform like Elective. In addition to this I want to be able to ask students to also evaluate different tag types and UI mockups to determine what structure feels most intuitive. The user research phase will directly inform interface decisions, filter categories, and onboarding experience. At least 30 interviews will be conducted, with summaries turned into user personas and journey maps. 
 
 ---
