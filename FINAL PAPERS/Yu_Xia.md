@@ -42,7 +42,16 @@ The app includes the following planned features:
 
 -Future Additions: AI-generated journaling prompts, optional voice logging, and customizable themes.
 
-### Timeline Objectives    
+### Timeline
+
+| Timeframe           | Phase                                  | Key Goals                                                                 |
+|---------------------|-----------------------------------------|---------------------------------------------------------------------------|
+| Weeks 1–2           | Research and Planning                   | Identify user needs, define core features, create Figma wireframes       |
+| Weeks 3–4           | Prototyping and Testing                 | Build interactive prototype, conduct peer feedback, adjust UI/UX         |
+| Weeks 5–6           | MVP Development                         | Implement core features in React Native, set up GitHub task management   |
+| Weeks 7–8           | Beta Testing and Feedback Integration   | Run closed beta test, improve content and UI, refine based on feedback   |
+| Weeks 9+ (ongoing)  | Expansion and Maintenance               | Add new features, improve accessibility, support open-source contributions |
+
 
 #### Research and Planning
 
@@ -65,6 +74,7 @@ After the MVP is functional, a small closed beta will be launched with selected 
 Future iterations will focus on expanding journaling prompts using AI models, adding accessibility options like font scaling and dark mode, and preparing for potential open-source contributions. Regular update cycles and a lightweight feedback loop will guide the development roadmap.
 
 ### Workflow Process
+Research → Design → Develop → Test → Improve
 
 ### Open Source Collaboration
 
@@ -76,4 +86,4 @@ For this project, I use an Agile-inspired method. I break the work into phases, 
 
 ### Conclusion
 
-This project is a development plan for a mental health support app that brings together CBT and mindfulness in a simple, useful way. The app is designed for people who want to take small steps toward better mental health. By using principles from this course—like working open, thinking in feature lifecycles, and managing projects with flexibility—I created a realistic plan for building and testing this app. I hope this project shows how even a small team can create something helpful by using good planning and focusing on real user needs.
+This project is a development plan for a mental health support app that brings together CBT and mindfulness in a simple, useful way. The app is designed for people who want to take small steps toward better mental health. By using principles from this course—like working open, thinking in feature lifecycles, and managing projects with flexibility, which I created a realistic plan for building and testing this app. I hope this project shows how even a small team can create something helpful by using good planning and focusing on real user needs.
