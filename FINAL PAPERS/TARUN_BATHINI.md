@@ -96,8 +96,6 @@ Through working on FitFocus, I learned how important it is to stay focused on so
 
 Going forward, I hope FitFocus can become a platform that helps more people take control of their fitness in a way that works for them. With the help of contributors and users, this project can keep improving and growing beyond just my original vision.
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
-
 ## References
 
 - [OpenPose: Real-time multi-person keypoint detection library by Carnegie Mellon University](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
