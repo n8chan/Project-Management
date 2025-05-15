@@ -87,3 +87,20 @@ For this project, I use an Agile-inspired method. I break the work into phases, 
 ### Conclusion
 
 This project is a development plan for a mental health support app that brings together CBT and mindfulness in a simple, useful way. The app is designed for people who want to take small steps toward better mental health. By using principles from this course—like working open, thinking in feature lifecycles, and managing projects with flexibility, which I created a realistic plan for building and testing this app. I hope this project shows how even a small team can create something helpful by using good planning and focusing on real user needs.
+
+### Reference
+Kelders, S. M., Kok, R. N., Ossebaard, H. C., & Van Gemert-Pijnen, J. E. (2012).
+Persuasive system design does matter: a systematic review of adherence to web-based interventions.
+Journal of Medical Internet Research, 14(6), e152. https://doi.org/10.2196/jmir.2104
+
+Bakker, D., Kazantzis, N., Rickwood, D., & Rickard, N. (2016).
+Mental health smartphone apps: Review and evidence-based recommendations for future developments.
+JMIR Mental Health, 3(1), e7. https://doi.org/10.2196/mental.4984
+
+Ruparelia, N. B. (2010).
+Software development lifecycle models.
+ACM SIGSOFT Software Engineering Notes, 35(3), 8–13. https://doi.org/10.1145/1764810.1764814
+
+Open Source Initiative. (n.d.).
+The Open Source Definition.
+https://opensource.org/osd
