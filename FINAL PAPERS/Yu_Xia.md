@@ -1,4 +1,4 @@
-# Mental Health Support App – Final Paper  
+# Mental Health Support App
 **Yu Xia – IS 340: Project Management, Spring 2025**
 
 
