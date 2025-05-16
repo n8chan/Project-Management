@@ -1,6 +1,6 @@
 Reimagine: Reducing the cost of education with reuse! 
 
-Taylor Chan, IS 340, Section B
+Taylor Chan, IS 340, Section B, Spring 2025
 
 **Introduction**
 
