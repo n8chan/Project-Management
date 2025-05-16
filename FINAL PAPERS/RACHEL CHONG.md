@@ -1,4 +1,4 @@
-# Quad Day
+# Quad Day- A Campus RSO Discovery App for UIUC Students
 **Rachel Chong IS340 Final Project, Spring 2025**
 
 ## Abstract  
