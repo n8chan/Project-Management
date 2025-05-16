@@ -17,6 +17,8 @@
 ## Workflow and Timeline
 &nbsp;&nbsp;&nbsp;&nbsp;This project has five phases which are initiation, community and engagement, research and policy development, web development, and end with ongoing monitoring with a 14 weeks timeline. This workflow is designed to support the development and deployment of the open-source AI policies for secondary education projects. 
 
+![FINAL PAPERS/Copy of Concept map.png](https://github.com/OREL-group/Project-Management/blob/5a87b0a43c1cf06ae31eb5cbb2e54d230406c3fa/FINAL%20PAPERS/Copy%20of%20Concept%20map.png)
+
 ## Project Management Strategies
 &nbsp;&nbsp;&nbsp;&nbsp;The project adopts a flexible, transparent, and collaborative project management strategy by using Agile methodology to support continuous improvement and real-time feedback. To begin, the initiative launches with a sprint structure. Each sprint cycle focuses on a single policy unit from concept to draft through testing and real-world implementation in school environments. This allows teams to quickly identify challenges, gather feedback from students and educators, and iterate on solutions. Rather than creating policies as a one time task, this method enables constant evaluation and revision to ensure that each policy remains responsive to the evolving educational needs and technology trends.
 
@@ -33,6 +35,8 @@
 
 ## GitHub Repository
 &nbsp;&nbsp;&nbsp;&nbsp;The GitHub repository serves as the backbone of the project’s technical infrastructure to support transparency, collaboration, and version control. It is organized with a clear folder structure where each policy will have its own folder containing documentation, raw data files, data analysis file, and final draft of policies. Foundational files such as README.md, CONTRIBUTING.md, and CODE_OF_CONDUCT.md will be provided to the contributors with essential onboarding information and community guidelines. A Kanban board will be used to track contributions, manage task flow, and visually organize work into stages like “To Do,” “In Progress,” “Review,” and “Done.” This system ensures that every team member understands the current status of tasks and what’s needed next. Roles are clearly defined between repository maintainers and contributors to streamline collaboration. Each policy is treated as a complete workflow, with folders storing data acquisition results, statistical tests, draft iterations, and final versions. Milestones are tracked using CHANGELOG.md within each policy unit to ensure accountability and highlight progress over time. The GitHub setup not only supports open development but also enables reproducible research, structured documentation, and long-term maintainability of AI policies in education.
+
+<img src="https://github.com/OREL-group/Project-Management/raw/83d0ea071733c9cd7b2b0ab7e80f69d2dd7517cd/FINAL%20PAPERS/github%20repo.png" alt="GitHub Repo Screenshot" width="200"/>
 
 ## Website Features
 Link to the website: https://dandelion-circle-yl75.squarespace.com
