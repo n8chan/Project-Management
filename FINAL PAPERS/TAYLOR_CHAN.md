@@ -60,7 +60,7 @@ Figure 2: Q1-Focused Workflow Diagram of Reimagine v1
 4) Software Development (Weeks 21-24): The software team will implement changes suggested from the UI/UX team. During this phase of software development, the team will also focus on refactoring and cleaning prior code. Team members can also add documentation to explain how certain lines of code function.
 5) Project Library (Week 13-24): While an additional iteration of development, other team members will focus on building out the project library. They will brainstorm classroom activities, while working with curriculum developers to ensure needs of the educational community are met.
 <img width="3216" alt="Q2- Workflow" src="https://github.com/user-attachments/assets/4ab223f4-6d33-4b97-8fe4-b8237fef7ad6" />
-Figure 3: Q1-Focused Workflow Diagram of Reimagine v1
+Figure 3: Q2-Focused Workflow Diagram of Reimagine v1
 
 **Q3 - Launch (July - September)**
 1) Marketing (Weeks 25-30): The Reimagine team will create a marketing campaign and strategy to draw attention to the platform. The design team will create marketing materials on Canva to release on different social media accounts. Since the primary audience upon initial release will be those in the Chicagoland area, the team will reach out to corresponding interest groups and unions, such as the Chicago Teachers Union. The goal will be to connect the project with its target audience: K-12 educators.
@@ -69,7 +69,7 @@ Figure 3: Q1-Focused Workflow Diagram of Reimagine v1
 4) Community Building (Weeks 32-36): At the same time, the team will move on to community building efforts (see below).
 <img width="3040" alt="Q3 - Workflow" src="https://github.com/user-attachments/assets/4520d4f2-f787-488a-98b1-992c53c101ca" />
 
-Figure 4: Q1-Focused Workflow Diagram of Reimagine v1
+Figure 4: Q3-Focused Workflow Diagram of Reimagine v1
 
 **Technical Debt**
 
