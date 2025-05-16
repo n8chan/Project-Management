@@ -80,7 +80,8 @@ Generally, it is important to be prepared for unforeseeable circumstances. For i
 
 **Community Building**
 
-Successful projects need to be built from the ground up; they need to have a solid foundation before expansion and extension. As mentioned in Lecture 8, “to have an open-source community, you must first build an open project, then community” (Alicea, 2025). Therefore, the Reimagine team will shift to growing the community after the initial launch. 
+Successful projects need to be built from the ground up; they need to have a solid foundation before expansion and extension. As mentioned in Lecture 8, “to have an open-source community, you must first build an open project, then community” (Alicea, 2025). Therefore, the Reimagine team will shift to growing the community after the initial launch. The Reimagine community will be hosted on Github where it will be easy to track changes and contributions.
+
 
 *Community Onboarding*
 
