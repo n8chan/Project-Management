@@ -23,8 +23,12 @@ Casual music listeners can also get a good experience out of this app, as it all
 
 ### Project Workflow
 ---
+
+| ![](https://github.com/cbertrand451/Project-Management/blob/main/FINAL%20PAPERS/CB_Workflow_IS340.png) | 
+| :--: |
+| <b>Figure 1.</b> 12-Week Project Workflow. |   
  
-Above is an example of what the Project Workflow would look like for the app. It follows a 12 week implementation plan. 
+Above is an example of what the Project Workflow would look like for the app. It follows a 12-week implementation plan. 
 
 #### Research and Planning:
 
